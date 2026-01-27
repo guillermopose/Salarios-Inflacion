@@ -1,1 +1,1 @@
-# Salarios-Inflaci-n
+# Salarios-Inflacion
